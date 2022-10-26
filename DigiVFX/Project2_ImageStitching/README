@@ -1,0 +1,20 @@
+This is readme page
+
+In python environment check your pip version
+
+Environment at python 3.6.12
+
+Get requirement package with internet connect
+
+pip install - r requirements.txt
+
+cd code
+
+python Project2_ImageStitching.py --img_folder ../data/ --num_intervals 2 --contrast_threshold 0.1 --focal_length 1600 --resize_ratio 3 --crop True
+
+will get image stitching result
+
+Or you can set up paramteres to fit your images requirements
+
+**Notice Please follow image stitching order to rename your pictures in data folder! 資料夾照片命名請依照影像拼接順序依序命名
+

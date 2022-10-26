@@ -1,0 +1,28 @@
+This is readme page
+
+In python environment check your pip version
+
+Environment at python 3.8.13
+
+Get requirement package with internet connect
+
+conda create -n labelme_extension python=3.8
+
+conda activate labelme_extension
+
+pip install - r requirements.txt
+
+cd code\labelme_extension
+
+pyhon labelme\__main__.py
+
+Will show labelme UI
+
+And our model format base on mmdetection
+
+The detail information you can access https://github.com/open-mmlab/mmdetection
+
+you can download model config and model weight from mmdetection page
+
+Labelme GUI we use https://github.com/wkentaro/labelme source code to add our extension auto label function
+
