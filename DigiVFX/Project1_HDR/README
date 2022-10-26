@@ -1,0 +1,13 @@
+This is readme page
+
+In python environment check your pip version
+
+Environment at python 3.6.12
+
+pip install - r requirements.txt
+
+cd code
+
+python Project1_HDR.py
+
+will get hdr and tone mapping image
